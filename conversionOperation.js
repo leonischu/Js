@@ -14,3 +14,22 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 console.log(booleanIsLoggedIn);
 // "" => false 
 //"hitesh" => true 
+
+//***********************Operations***************** */
+
+let value = 3;
+let negValue = -3;
+// console.log(negValue);
+
+// console.log(2**3);
+
+// console.log("1"+2+2);
+
+// console.log(1+2+"2");
+
+// console.log(+true);
+
+// let num1 , num2 , num3 
+// num1 = num2 = num3 = 2+2
+
+let game
